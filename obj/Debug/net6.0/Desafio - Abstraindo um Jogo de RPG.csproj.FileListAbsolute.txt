@@ -1,0 +1,15 @@
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\bin\Debug\net6.0\Desafio - Abstraindo um Jogo de RPG.exe
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\bin\Debug\net6.0\Desafio - Abstraindo um Jogo de RPG.deps.json
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\bin\Debug\net6.0\Desafio - Abstraindo um Jogo de RPG.runtimeconfig.json
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\bin\Debug\net6.0\Desafio - Abstraindo um Jogo de RPG.dll
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\bin\Debug\net6.0\Desafio - Abstraindo um Jogo de RPG.pdb
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\obj\Debug\net6.0\Desafio - Abstraindo um Jogo de RPG.csproj.AssemblyReference.cache
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\obj\Debug\net6.0\Desafio - Abstraindo um Jogo de RPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\obj\Debug\net6.0\Desafio - Abstraindo um Jogo de RPG.AssemblyInfoInputs.cache
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\obj\Debug\net6.0\Desafio - Abstraindo um Jogo de RPG.AssemblyInfo.cs
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\obj\Debug\net6.0\Desafio - Abstraindo um Jogo de RPG.csproj.CoreCompileInputs.cache
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\obj\Debug\net6.0\Desafio - Abstraindo um Jogo de RPG.dll
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\obj\Debug\net6.0\refint\Desafio - Abstraindo um Jogo de RPG.dll
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\obj\Debug\net6.0\Desafio - Abstraindo um Jogo de RPG.pdb
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\obj\Debug\net6.0\Desafio - Abstraindo um Jogo de RPG.genruntimeconfig.cache
+D:\DIO LÊ\Bootcamp Banco Carrefour Woman Developer\Desafio - Abstraindo um Jogo de RPG\obj\Debug\net6.0\ref\Desafio - Abstraindo um Jogo de RPG.dll
